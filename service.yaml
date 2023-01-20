@@ -12,5 +12,3 @@ spec:
 selector:
     app: petclinic
   type: LoadBalancer
-  
- 
