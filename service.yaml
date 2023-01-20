@@ -9,6 +9,6 @@ spec:
     port: 80
     protocol: TCP
     targetPort: 80
-selector:
+  selector:
     app: petclinic
   type: LoadBalancer
